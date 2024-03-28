@@ -45,3 +45,5 @@ Tmicroservice-course/src/main/java/com/microservice/course/client/IStudentClient
 Mmicroservice-course/src/main/java/com/microservice/course/dto/StudentDto.java,1/3/13966bcaf482de9b5953a580d544084448a09fd2
 ”
 dmicroservice-course/src/main/java/com/microservice/course/http/response/StudentByCourseResponse.java,3/8/38a6c4278b222748f4d9f76fb2577f25fee6927d
+Œ
+\microservice-config/src/main/java/com/microservice/config/MicroserviceConfigApplication.java,8/8/88f7d9e509f4b6984ea990ddd66c74106702eda5
