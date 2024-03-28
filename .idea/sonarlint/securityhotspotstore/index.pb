@@ -29,14 +29,10 @@ Xmicroservice-student/src/main/java/com/microservice/student/service/IstudentSer
 `microservice-student/src/main/java/com/microservice/student/service/impl/StudentServiceImpl.java,7/f/7f6d43fd3a5815a488a47a6c359906019b3e0992
 ç
 ]microservice-student/src/main/java/com/microservice/student/controller/StudentController.java,9/6/96c59642cd678c360a34af294b3b2f2140536017
-c
-3microservice-course/src/main/java/model/Course.java,7/c/7ce77cfab0ce6bffc9952f83ba55614eda775527
 {
 Kmicroservice-course/src/main/java/com/microservice/course/model/Course.java,7/4/7467aadbe0c45670021387e7ed2ac9682f0ac2c8
 ä
 Zmicroservice-course/src/main/java/com/microservice/course/repository/CourseRepository.java,e/0/e0bf05ae16633ba4e7f1ee8852b731d2094556e0
-Ñ
-Tmicroservice-course/src/main/java/com/microservice/course/service/CourseService.java,2/b/2b6d0545b1bcfc8ce91b2629b0afa7d2792411bc
 é
 ^microservice-course/src/main/java/com/microservice/course/service/impl/CourseServiceImple.java,d/0/d0903e2071b5a3051c2e5e83fb79fb9d3cc1aa64
 ä
@@ -47,3 +43,5 @@ Umicroservice-course/src/main/java/com/microservice/course/service/ICourseServic
 Tmicroservice-course/src/main/java/com/microservice/course/client/IStudentClient.java,3/2/32cd1fc9178286fd8f03644b6d29cbfaea3b48b2
 }
 Mmicroservice-course/src/main/java/com/microservice/course/dto/StudentDto.java,1/3/13966bcaf482de9b5953a580d544084448a09fd2
+î
+dmicroservice-course/src/main/java/com/microservice/course/http/response/StudentByCourseResponse.java,3/8/38a6c4278b222748f4d9f76fb2577f25fee6927d
